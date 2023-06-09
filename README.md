@@ -1,4 +1,4 @@
-# Hi :wave:
+# Hi there :wave:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksnowak&count_private=true&show_icons=true&theme=gruvbox)
 
